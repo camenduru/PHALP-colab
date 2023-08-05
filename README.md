@@ -6,7 +6,7 @@
 
 | Colab | Info
 | --- | --- |
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/PHALP-colab/blob/main/PHALP_colab.ipynb) | PHALP_colab.ipynb
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/PHALP-colab/blob/main/PHALP_colab.ipynb) | PHALP_colab
 
 ## Main Repo
 https://github.com/brjathu/PHALP <br />
