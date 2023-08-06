@@ -18,5 +18,6 @@ https://brjathu.github.io/PHALP/ <br />
 https://arxiv.org/abs/2112.04477 <br />
 
 ## Output
+Artist: https://www.tiktok.com/@karinaavx__/video/7149227592720141610 | https://www.youtube.com/@karinabalcerzak
 
 https://github.com/camenduru/4D-Humans-colab/assets/54370274/743c868c-92ee-42f4-893b-2e23e8edc469
