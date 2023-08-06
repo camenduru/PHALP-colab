@@ -10,12 +10,15 @@
 
 ## Main Repo
 https://github.com/brjathu/PHALP <br />
+https://github.com/shubham-goel/4D-Humans (mesh recovery) <br />
 
 ## Page
 https://brjathu.github.io/PHALP/ <br />
+https://shubham-goel.github.io/4dhumans/ (mesh recovery) <br />
 
 ## Paper
 https://arxiv.org/abs/2112.04477 <br />
+https://arxiv.org/abs/2305.20091 (mesh recovery) <br />
 
 ## Output
 Artist: https://www.tiktok.com/@karinaavx__/video/7149227592720141610 <br />
