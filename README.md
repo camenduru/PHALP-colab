@@ -19,3 +19,4 @@ https://arxiv.org/abs/2112.04477 <br />
 
 ## Output
 
+https://github.com/camenduru/4D-Humans-colab/assets/54370274/743c868c-92ee-42f4-893b-2e23e8edc469
